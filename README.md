@@ -157,9 +157,10 @@ print("\nClassification Report:\n", classification_report(y_test, predictions))
 ![d37bbe72-7738-48d4-909b-5f345e9add27](https://github.com/user-attachments/assets/b831b1ff-47ab-40e8-bd8e-a40ad4bbe2c3)
 
 <br>
-![d0c78c28-5b87-4585-b927-9f59bfaacf31](https://github.com/user-attachments/assets/f252bcb5-881e-47f6-b290-3a152817ffc2)
+<img width="244" height="176" alt="image" src="https://github.com/user-attachments/assets/6173f831-45ab-4678-819f-6cbccb572ca2" />
+
 <br>
-![53503c89-3734-407b-a94c-417d7eb0f152](https://github.com/user-attachments/assets/7ac0057a-52a8-4bd6-92df-d0061fa27db3)
+<img width="559" height="294" alt="image" src="https://github.com/user-attachments/assets/13287e64-c951-40a1-aa48-82ce77de2550" />
 
 
 <H3>Result:</H3>
